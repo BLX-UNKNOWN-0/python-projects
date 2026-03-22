@@ -38,7 +38,7 @@ def menu():
 
         if   choice == "1": scrape_quotes()
         elif choice == "2": scrape_news()
-        elif choice == "0": print("Bye!"); break
+        elif choice == "0": print("Bye!Have a good day"); break
         else: print("Invalid choice.")
 
 menu()
